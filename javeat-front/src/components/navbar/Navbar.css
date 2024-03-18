@@ -1,0 +1,26 @@
+.navbar-brand-container {
+    display: flex;
+    align-items: center;
+    margin-right: auto;
+    /* Sposta il logo a sinistra */
+}
+
+.login-link {
+    color: #2EC4B6;
+    /* Colore di base */
+}
+
+.login-link:hover {
+    color: #CBF3F0;
+    /* Sostituisci #desiredHoverColor con il codice colore che preferisci per l'hover */
+}
+
+.statistic-link {
+    color: #FF9F1C;
+    /* Colore di base */
+}
+
+.statistic-link:hover {
+    color: #FFBF69;
+    /* Sostituisci #desiredHoverColor con il codice colore che preferisci per l'hover */
+}

@@ -1,0 +1,10 @@
+
+.btn.login-link {
+    color: #2EC4B6 !important;
+    background-color: #FFFFFF !important; /* Sostituisci #FFFFFF con il colore di sfondo desiderato */
+}
+
+.btn.login-link:hover {
+    color: #FFFFFF !important; /* Testo diventa bianco al passaggio del mouse */
+    background-color: #007BFF !important; /* Sfondo diventa blu scuro al passaggio del mouse */
+}
